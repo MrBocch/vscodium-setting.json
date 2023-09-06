@@ -1,0 +1,23 @@
+{
+    "workbench.editor.untitled.hint": "hidden",
+    "editor.lineNumbers": "relative",
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "off",
+    "extensions.ignoreRecommendations": true,
+    // not on codium"workbench.iconTheme": "gruvbox-material-icon-theme",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "terminal.integrated.fontFamily": "Fira Code",
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    },
+
+    // vimium
+    //"editor.fontFamily": "Anonymous Pro",
+    "editor.fontFamily": "Fira Code",
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "workbench.startupEditor": "none",
+    "workbench.tree.indent": 20,
+    "workbench.iconTheme": "material-icon-theme"
+}
