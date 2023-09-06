@@ -4,7 +4,7 @@
     "editor.minimap.enabled": false,
     "editor.wordWrap": "off",
     "extensions.ignoreRecommendations": true,
-    // not on codium"workbench.iconTheme": "gruvbox-material-icon-theme",
+    /* not on codium"workbench.iconTheme": "gruvbox-material-icon-theme", */
     "liveServer.settings.donotShowInfoMsg": true,
     "terminal.integrated.fontFamily": "Fira Code",
     "launch": {
@@ -13,8 +13,7 @@
         "compounds": []
     },
 
-    // vimium
-    //"editor.fontFamily": "Anonymous Pro",
+    /* vimium */
     "editor.fontFamily": "Fira Code",
     "workbench.colorTheme": "Gruvbox Dark Hard",
     "workbench.startupEditor": "none",
